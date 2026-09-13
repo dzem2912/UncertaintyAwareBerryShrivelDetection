@@ -1,6 +1,6 @@
 # Interpretable and Uncertainty-Aware Deep Learning for Grapevine Berry Shrivel Detection
 
-Code and (pending release) dataset accompanying the paper:
+Code and dataset accompanying the paper:
 
 > DŽ. Rožajac, S. Schweng, M. Griesser, A. Forneck, J. Del Ser, A. Holzinger.
 > **Interpretable and Uncertainty-Aware Deep Learning for Grapevine Berry Shrivel Detection.**
