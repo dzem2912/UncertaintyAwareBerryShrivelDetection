@@ -24,7 +24,7 @@ alone — even for a trained grapevine physiologist. This repository provides th
 - Acquisition was **not standardized** across viewing angle or illumination
 
 > **Availability:** 
-> The dataset is available for download via the following link:
+> The dataset is available for download via the following link: https://bokubox.boku.ac.at/#11fa1ff73bd1ce07f6e61c3a91802198
 
 ## Method summary
 
